@@ -1,0 +1,27 @@
+.herohead{
+    width: 1440px;
+    height: 640px;
+    position: relative;
+}
+.site1{
+    margin-left:  auto;
+    width: 1440px;
+    height: 5043px;
+}
+.hero{
+    width: 1440px;
+    height: 80px;
+    background-color: #545cb1;
+    position: absolute;
+    display: inline;
+
+    
+}
+.knopki{
+    padding-top:30px;
+    position: absolute;
+    padding-left: 1006px;
+}
+.photo{
+    position: relative;
+}
